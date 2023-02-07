@@ -16,3 +16,6 @@ function forception(people, alphabet) {
 }
 
 console.log(forception(people, alphabet))
+
+
+/// push
